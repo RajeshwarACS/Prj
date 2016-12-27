@@ -25,7 +25,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "www", "www\", "{542F621E-03
 		SlnRelativePath = "www\"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockLayer", "..\DockLayer\DockLayer.csproj", "{A0ADDE47-3089-4AD6-92CE-EC74CD86EACF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockLayer", "DockLayer\DockLayer.csproj", "{A0ADDE47-3089-4AD6-92CE-EC74CD86EACF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
