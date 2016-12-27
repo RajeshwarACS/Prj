@@ -1,0 +1,5 @@
+D:\ACS\DockLayer\bin\Debug\DockLayer.dll
+D:\ACS\DockLayer\bin\Debug\DockLayer.pdb
+D:\ACS\DockLayer\obj\Debug\DockLayer.csprojResolveAssemblyReference.cache
+D:\ACS\DockLayer\obj\Debug\DockLayer.dll
+D:\ACS\DockLayer\obj\Debug\DockLayer.pdb
